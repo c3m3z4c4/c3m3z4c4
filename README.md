@@ -53,7 +53,7 @@ I build software and deploy it where it has to work: inside client environments.
 
 ## 📌 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=c3m3z4c4&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats-chi-drab-75.vercel.app/api?username=c3m3z4c4&count_private=true&show_icons=true)
 
 ## 📱 Contact
 
